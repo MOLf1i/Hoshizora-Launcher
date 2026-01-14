@@ -19,7 +19,7 @@ Hoshizora Launcher is a magical, lightweight Minecraft launcher inspired by Japa
 
 ## 🚀 Installation
 
-1. Download the latest version [here](#).  
+1. Download the latest version [here](https://github.com/MOLf1i/Hoshizora-Launcher/releases).  
 2. Open the file and launch **Hoshizora Launcher**.  
 3. Log in with your Minecraft account.  
 4. Select your game version and click **Play**.  
